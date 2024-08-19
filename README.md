@@ -6,4 +6,4 @@
 - Latest update in 2024/08/19
 - Heavily based on the [THU-Beamer-Theme](https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb) created by Jiayi Weng.
 
-![image](xxx.png)
+![image](https://github.com/ZhangZaiHang/NJAU-latex-template/blob/main/pic.jpeg)
