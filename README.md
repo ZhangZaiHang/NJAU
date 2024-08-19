@@ -1,2 +1,2 @@
-# Beamer
+# NJAU
 none
