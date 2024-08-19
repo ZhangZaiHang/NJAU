@@ -11,17 +11,6 @@
 </left>
 <br>
 
-### FZU-Cover-Letter 信件模版
-
-- [![Open In Overleaf](https://badgen.net/badge/%20/Open%20In%20%20Overleaf/green?icon=https://images.ctfassets.net/nrgyaltdicpt/2nBkkfg5vkAEOmdJOb1BkZ/61b5fb98c52d1be763426ee58f36bc6e/ologo_square_bw.svg)](https://www.overleaf.com/latex/templates/fzu-cover-letter-template/pymdhjrkyhpb)
-- Contributor: Hanlin Cai
-- Latest update in 2023/04/05
-- Heavily based on the [PKU-Letter-Template](https://www.overleaf.com/latex/templates/pku-letter-template/dbbmncttgcrn) modified by Yue Wu.
-
-<left>
-  <img src = "https://p.ipic.vip/ri3j95.png" width = 54%>
-</left>
-<br>
 
 ## Future Plan 未来计划更新
 
