@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{相关性与因果关系}{3}{0}{1}
+\beamer@sectionintoc {2}{标准DID及其基本原理}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{双重差分基本思想与Stata实现}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{平行趋势假设}{15}{0}{2}
+\beamer@sectionintoc {3}{渐进DID}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{美化主题}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{如何更好地制作Beamer}{19}{0}{3}
+\beamer@sectionintoc {4}{其他DID拓展}{30}{0}{4}
+\beamer@sectionintoc {5}{DID论文结构与参考文献}{32}{0}{5}
