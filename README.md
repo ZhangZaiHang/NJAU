@@ -6,7 +6,4 @@
 - Latest update in 2024/08/19
 - Heavily based on the [THU-Beamer-Theme](https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb) created by Jiayi Weng.
 
-<left>
-  <img src = "https://p.ipic.vip/n9f6ft.png" width = 64%>
-</left>
-<br>
+![image](xxx.png)
