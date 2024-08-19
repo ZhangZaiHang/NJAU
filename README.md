@@ -10,16 +10,3 @@
   <img src = "https://p.ipic.vip/n9f6ft.png" width = 64%>
 </left>
 <br>
-
-
-## Future Plan 未来计划更新
-
-- FZU-Beamer-Theme (v1) 演示文档第一版 ✅ Finished in 2023/02
-- FZU-Recommendation-Letter 信件模版 ✅ Finished in 2023/04
-- FZU-Beamer-Theme (v2) 演示文档第二版 
-- FZU-Undergrad-Thesis 本科生毕业论文模版 
-- [FZU-Flying-Handbook 福州大学飞跃手册](https://www.zhihu.com/question/563841084/answer/2739172650) 👨🏻‍💻 Under working
-
-欢迎加入项目运营！如有任何问题，请随时与我取得联系：hanlin.cai@ieee.org
-
-If you have any problem, please feel free to contact [Hanlin CAI](https://caihanlin.com/).
